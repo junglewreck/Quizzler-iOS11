@@ -54,10 +54,10 @@ class ViewController: UIViewController {
     func checkAnswer() {
         let correctAnswer = allQuestions.list[0].answer
         if pickedAnswer == correctAnswer{
-            print("u a damn right mthdckr")
+            print("win)
         }
         else {
-            print("u a looser")
+            print("lose")
         }
         
     }

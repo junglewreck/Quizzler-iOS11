@@ -10,7 +10,7 @@ import Foundation
 class QuestionBank {
     var list = [Question]()
     init() {
-        let item = Question(text: "Whos the best here?", correctAnswer: true)
+        let item = Question(text: "Question here", correctAnswer: true)
         list.append(item)
         
         
