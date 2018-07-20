@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         }
         else if sender.tag == 2{
             pickedAnswer = false
-            print("fuckoooofof")
+            print("ofofofo")
     }
         checkAnswer()
 }
